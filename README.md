@@ -20,8 +20,3 @@ cargo run
 ## Output
 
 The amount of data transferred, energy consumption, and carbon emissions.
-
-
-## License
-
-Licensed under the [MIT License](https://opensource.org/license/MIT).
